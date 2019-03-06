@@ -1,4 +1,5 @@
 import Cocoa
 
 var str = "Hello, playground"
-print(str)
+var str2 = " ff"
+print(str, str2)
